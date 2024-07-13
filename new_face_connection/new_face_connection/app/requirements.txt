@@ -1,0 +1,6 @@
+Pillow
+spotipy
+pyscard
+firebase-admin
+psutil
+tk
