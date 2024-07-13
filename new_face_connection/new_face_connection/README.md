@@ -6,8 +6,8 @@ Este proyecto es una aplicación que utiliza tecnología NFC y Spotify para crea
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/new_face_connection.git
-    cd new_face_connection
+    git clone https://github.com/UniversoVentura/New_Face_Cannection.git
+    cd New_Face_Cannection
     ```
 
 2. Instala las dependencias:
