@@ -1,28 +1,23 @@
-# Ignorar archivos y directorios generados automáticamente por Python
+
+#### `.gitignore`
+
+Asegúrate de que tu `.gitignore` excluya archivos innecesarios como `__pycache__`, archivos de entorno, etc.:
+
+```plaintext
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Ignorar entornos virtuales
 .Python
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
-
-# Ignorar configuraciones de IDE
 .idea/
 .vscode/
-
-# Ignorar archivos de log
 *.log
-
-# Ignorar bases de datos locales
 *.sqlite3
 *.db
-
-# Ignorar archivos de empaquetado
 *.tar.gz
 *.zip
